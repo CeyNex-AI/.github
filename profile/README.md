@@ -44,4 +44,4 @@ Group 07, Project P16, CS3501 Data Science and Engineering Project, University o
 | Thisen Ekanayake | Core systems, orchestration, policy retrieval, infrastructure |
 | Dhinanjaya Fernando | Apparel data and agent, forecasting, evaluation, front end, security |
 
-Supervisor: Dr. Chathuranga Hettiarachchi.
+Supervisor: Dr. Chathuranga Hettiarachchi. Teaching Assistant: Birunthaban Rajendram.
